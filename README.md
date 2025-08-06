@@ -80,7 +80,7 @@ Open that link in your browser to view the app.
 
 To see the application in action with preloaded sample data and all features demonstrated, watch the full demo video:
 
-[Watch Demo Video](https://youtu.be/your-demo-link)
+[Watch Demo Video](https://www.linkedin.com/posts/jacob-rieker_most-of-us-have-had-to-check-a-schedule-activity-7358894061090451458-KZYU?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEHhdooB7v3-3FOJrl6x1NXx4y4YAtIxnec)
 
 ---
 
