@@ -74,11 +74,15 @@ After running the dev server, check your terminal for the local URL — it will 
 ```
 Open that link in your browser to view the app.
 
+---
+
 ## Demo
 
 To see the application in action with preloaded sample data and all features demonstrated, watch the full demo video:
 
 [Watch Demo Video](https://youtu.be/your-demo-link)
+
+---
 
 ## Author
 
